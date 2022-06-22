@@ -1,0 +1,11 @@
+git
+maven
+jenkins
+sonarqube
+jfrog
+docker
+kubernetes
+terraform
+detadog
+xml/json/yaml
+cloud-aws(EC2,IAM,Load balancer,autoscale,dns,s3)
